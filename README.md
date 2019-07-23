@@ -13,3 +13,15 @@ The dataset comes preloaded in Keras, which means I don't need to open or read a
 * [NumPy](https://pypi.org/project/numpy/)
 * [Matplotlib](https://pypi.org/project/matplotlib/)
 * [Keras](https://pypi.org/project/Keras/)
+
+### Getting the project files
+1. Clone the repository and navigate to the downloaded folder.
+
+```
+git clone https://github.com/adityasaxena26/analyzing-IMDb-data-in-Keras.git
+cd analyzing-IMDb-data-in-Keras
+```
+2. Run the following to open up the Jupyter notebook server:
+`jupyter notebook`
+
+3. In the browser, open the notebook ```IMDB_in_Keras.ipynb```
