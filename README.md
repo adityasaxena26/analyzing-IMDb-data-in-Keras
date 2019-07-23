@@ -6,3 +6,10 @@ In this notebook, I have analyzed the sentiments in the IMDB movie reviews using
 ### Data
 
 The dataset comes preloaded in Keras, which means I don't need to open or read any files manually and one simple command will get us training and testing data. The command to load the data will actually split the words into training and testing sets and labels. There are 25000 movie reviews available in the dataset for analysis.
+
+### Softwares and libraries
+* [Python 3](www.python.org)
+* [Jupyter Notebook](http://ipython.org/notebook.html)
+* [NumPy](https://pypi.org/project/numpy/)
+* [Matplotlib](https://pypi.org/project/matplotlib/)
+* [Keras](https://pypi.org/project/Keras/)
